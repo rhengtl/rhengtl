@@ -2,7 +2,7 @@
 
 **Software Engineer: Machine Learning & Backend** · Philippines · open to on-site roles in the Philippines and remote roles
 
-I build AI-powered software end to end: real-time speech pipelines on a Raspberry Pi, LLM services at the edge, and offline-first apps that keep working without a signal.
+I build complete software, from machine-learning models and LLM features to the backend services, APIs and apps around them, and I test and measure what I ship.
 
 The part I enjoy most comes after the model works in a notebook: making it answer in real time on constrained hardware, putting an LLM behind an API that can't be misused, and keeping an app useful with no connection. Internships in systems deployment and technical support taught me how things fail in the field, so my projects ship with tests, validation logs and fallbacks.
 
